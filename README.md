@@ -1,5 +1,10 @@
 # Chlorella sp. Multi-Target Machine Learning Optimization
 
+## Revised manuscript reproducibility
+
+The [reproducibility package](reproducibility/README.md) contains the corrected 630-record dataset with condition and replicate identifiers, the revised notebook, and the code for both grouped cross-validation protocols.
+
+
 This repository provides the main analysis notebook for a manuscript on interpretable machine-learning-assisted optimization of *Chlorella* sp. cultivation.
 
 The current public repository contains the notebook:
